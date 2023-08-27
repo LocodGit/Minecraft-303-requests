@@ -1,4 +1,4 @@
 {
   "url": "https://support.readaloud.app/ttstool/createParts",
-  "json": "[{\"voiceId\": \"Amazon British English (Amy)\", \"ssml\": \"<speak version=\"1.0\" xml:lang=\"en-GB\"><prosody volume='x-loud' rate='x-slow' pitch='x-low'>CONTENT</prosody></speak>\"}]"
+  "json": "[{\"voiceId\": \"Amazon British English (Amy)\", \"ssml\": \"<speak version=\\"1.0\\" xml:lang=\\"en-GB\\"><prosody volume='x-loud' rate='x-slow' pitch='x-low'>CONTENT</prosody></speak>\"}]"
 }
