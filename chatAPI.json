@@ -1,4 +1,4 @@
 {
-  "url": "https://chat.acytoo.com/api/completions",
+  "url": "https://api.acytoo.net/v1/chat/completions",
   "json": "{\"key\": \"\", \"model\": \"gpt-3.5-turbo\", \"messages\": [ { \"role\": \"user\", \"content\": \"CONTENT\", \"createdAt\": 1690475091995 } ], \"temperature\": 1, \"password\": \"\"}"
 }
