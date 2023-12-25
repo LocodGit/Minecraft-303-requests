@@ -1,4 +1,3 @@
 {
-  "url": "https://chat.acytoo.com/api/completions",
-  "json": "{\"key\": \"\", \"model\": \"gpt-3.5-turbo\", \"messages\": [ { \"role\": \"user\", \"content\": \"CONTENT\", \"createdAt\": 1690475091995 } ], \"temperature\": 1, \"password\": \"\"}"
-}
+"url": "https://mixtral.replicate.dev/api", 
+"json": "{\"key\": \"\", \"model\": \"mistralai/mixtral-8x7b-instruct-v0.1\", \"messages\": [{\"role\": \"user\", \"content\": \"<s>[INST] CONTENT [/INST]\", \"createdAt\": 1690475091995}], \"temperature\": 0.75, \"topP\": 0.9, \"maxTokens\": 800, \"password\": \"\"}"}
