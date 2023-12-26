@@ -1,4 +1,4 @@
 {
 "url": "https://mixtral.replicate.dev/api", 
-"json": "{\"prompt\": \"<s>[INST] CONTENT [/INST]\", \"model\": \"mistralai/mixtral-8x7b-instruct-v0.1\", \"temperature\": 0.6, \"topP\": 0.9, \"maxTokens\": 50}"
+"json": "{\"prompt\": \"<s>[INST] CONTENT [/INST]\", \"model\": \"mistralai/mixtral-8x7b-instruct-v0.1\", \"temperature\": 0.6, \"topP\": 0.9, \"maxTokens\": 100}"
 }
