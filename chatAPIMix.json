@@ -1,4 +1,4 @@
 {
 "url": "https://www.llama2.ai/api", 
-"json": "{ \"prompt\": \"system\\n\\nuser\\n\\n CONTENT \\n\", \"model\": \"meta/meta-llama-3-8b-instruct\", \"systemPrompt\": \"\", \"temperature\": 0.75, \"topP\": 0.9, \"maxTokens\": 800, \"image\": null, \"audio\": null }"
+"json": "{ \"prompt\": \"system\\n\\nuser\\n\\n CONTENT \\n\", \"model\": \"meta/meta-llama-3-8b-instruct\", \"systemPrompt\": \"\", \"temperature\": 0.75, \"topP\": 0.9, \"maxTokens\": 50, \"image\": null, \"audio\": null }"
 }
